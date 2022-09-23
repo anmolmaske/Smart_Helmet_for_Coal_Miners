@@ -23,7 +23,7 @@ A Smart Helmet has been produced to help miners running withinside the mining in
 ### Results 📊
 
 #### Assembly of the Hardware
-<img src="">
+<img src="https://github.com/anmolmaske/Imp_Files/blob/main/Helmet_Result1.jpg">
 
 #### Live Web-page Result
 <img src="">
